@@ -1,7 +1,3 @@
-Desigur! Iată o variantă formatată adecvat pentru README-ul de pe GitHub:
-
----
-
 ## Distribuirea Eficientă a Cărților Angajaților
 
 ### Descriere
